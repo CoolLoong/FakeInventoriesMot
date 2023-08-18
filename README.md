@@ -57,8 +57,8 @@ player.addWindow(inventory);
 #### Dependency
 ```xml
 <dependency>
-    <groupId>com.github.IWareQ</groupId>
-    <artifactId>FakeInventories</artifactId>
+    <groupId>com.github.CoolLoong</groupId>
+    <artifactId>FakeInventoriesMot</artifactId>
     <version>Version</version>
 </dependency>
 ```
